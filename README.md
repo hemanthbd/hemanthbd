@@ -17,6 +17,6 @@
 ![](https://img.shields.io/badge/IDE-Pycharm-informational?style=plastic&logo=pycharm&logoColor=orange&color=6a1fdb)
 ![](https://img.shields.io/badge/IDE-Jupyter-informational?style=plastic&logo=jupyter&logoColor=orange&color=6a1fdb)
 ![](https://img.shields.io/badge/Version&nbsp;Control-Git-informational?style=plastic&logo=git&logoColor=orange&color=6a1fdb)
-![](https://img.shields.io/badge/Framework-LaTeX-informational?style=plastic&logo=latex&logoColor=orange&color=6a1fdb)
+![](https://img.shields.io/badge/Code-LaTeX-informational?style=plastic&logo=latex&logoColor=orange&color=6a1fdb)
 ![](https://img.shields.io/badge/IDE-Visual&nbsp;Studio&nbsp;Code-informational?style=plastic&logo=visual-studio-code&logoColor=orange&color=6a1fdb)
 ![](https://img.shields.io/badge/Database-MYSQL-informational?style=plastic&logo=mysql&logoColor=orange&color=6a1fdb)
