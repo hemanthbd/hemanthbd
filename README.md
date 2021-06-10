@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthbd&theme=midnight-purple&text_color=8f62de&hide_border=True&title_color=e3b312&custom_title=Languages&nbsp;I&nbsp;love&nbsp;apparently!&hide=Assembly,Batchfile,Java)](https://github.com/hemanthbd/Interesting)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthbd&theme=midnight-purple&text_color=8f62de&hide_border=True&title_color=e3b312&custom_title=Languages&nbsp;I&nbsp;love&nbsp;apparently!&hide=Batchfile,Java)](https://github.com/hemanthbd/Interesting)
 
 ### Skills
 
