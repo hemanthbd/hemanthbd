@@ -1,1 +1,22 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthbd&theme=midnight-purple&text_color=863ade&hide_border=True&title_color=e3b312&custom_title=Languages&nbsp;I&nbsp;love&nbsp;apparently!&hide=Assembly,Batchfile,Java)](https://github.com/hemanthbd/Interesting)
+
+### Skills
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6a1fdb)
+![](https://img.shields.io/badge/Framework-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=6a1fdb)
+![](https://img.shields.io/badge/Framework-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=6a1fdb)
+![](https://img.shields.io/badge/Framework-Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=6a1fdb)
+![](https://img.shields.io/badge/Framework-Keras-informational?style=flat&logo=keras&logoColor=white&color=6a1fdb)
+![](https://img.shields.io/badge/Framework-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=6a1fdb)
+![](https://img.shields.io/badge/Framework-OpenCV-informational?style=flat&logo=opencv&logoColor=white&color=6a1fdb)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=6a1fdb)
+![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&logo=matlab&logoColor=white&color=6a1fdb)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=6a1fdb)
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=6a1fdb)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6a1fdb)
+![](https://img.shields.io/badge/IDE-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=6a1fdb)
+![](https://img.shields.io/badge/IDE-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=6a1fdb)
+![](https://img.shields.io/badge/Version&nbsp;Control-Git-informational?style=flat&logo=git&logoColor=white&color=6a1fdb)
+![](https://img.shields.io/badge/Framework-LaTeX-informational?style=flat&logo=latex&logoColor=white&color=6a1fdb)
+![](https://img.shields.io/badge/IDE-Visual&nbsp;Studio&nbsp;Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6a1fdb)
+![](https://img.shields.io/badge/Database-MYSQL-informational?style=flat&logo=mysql&logoColor=white&color=6a1fdb)
