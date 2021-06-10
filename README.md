@@ -22,7 +22,7 @@
 ![](https://img.shields.io/badge/Database-MYSQL-informational?style=plastic&logo=mysql&logoColor=orange&color=6a1fdb)
 
 
-### Repos currently working on
+### Repos currently mainly working on
 
 <a href="https://github.com/hemanthbd/A2A-Reports">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hemanthbd&repo=A2A-Reports&theme=vision-friendly-dark&hide_border=True" />
