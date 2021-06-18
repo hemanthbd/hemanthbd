@@ -1,4 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthbd&theme=midnight-purple&text_color=8f62de&hide_border=True&title_color=e3b312&custom_title=Languages&nbsp;I&nbsp;love&nbsp;apparently!&hide=Batchfile,Java)](https://github.com/hemanthbd/Interesting)  <img align="right" src="https://media.giphy.com/media/l49JUTOrDOxaXA9KE/giphy.gif" width="280" height="280">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthbd&hide=Assembly,Batchfile&theme=midnight-purple&text_color=8f62de&hide_border=True&title_color=e3b312&custom_title=Languages&nbsp;I&nbsp;love&nbsp;apparently!)](https://github.com/hemanthbd/) <img align="right" src="https://media.giphy.com/media/l49JUTOrDOxaXA9KE/giphy.gif" width="280" height="280">
+
 
 
 ### Skills
@@ -12,6 +13,7 @@
 ![](https://img.shields.io/badge/Framework-OpenCV-informational?style=plastic&logo=opencv&logoColor=orange&color=6a1fdb)
 ![](https://img.shields.io/badge/Code-C++-informational?style=plastic&logo=c%2B%2B&logoColor=orange&color=6a1fdb)
 ![](https://img.shields.io/badge/Code-MATLAB-informational?style=plastic&logo=matlab&logoColor=orange&color=6a1fdb)
+![](https://img.shields.io/badge/Code-Java-informational?style=plastic&logo=java&logoColor=orange&color=6a1fdb)
 ![](https://img.shields.io/badge/Code-C-informational?style=plastic&logo=c&logoColor=orange&color=6a1fdb)
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=plastic&logo=ubuntu&logoColor=orange&color=6a1fdb)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=orange&color=6a1fdb)
